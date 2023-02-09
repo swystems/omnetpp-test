@@ -37,8 +37,8 @@ be something wrong with your installation.
 layout, `txc.cc` contains the source code with functions defining the network
 behaviour, `omnetpp.ini` contains the configuration file. You should care only about
 the first 2 files. 
-7. _Implement the exercise and re-run the simulation_ (make sure you are working in a 
-branch).
+7. _Implement the exercise and re-run the simulation_ (make sure you are working in the 
+exercise branch).
 8. Once the exercise is complete, *commit your changes and make a Pull Request* to the master 
 branch of the forked repository. *Describe what the newly implemented network does* in the pull 
 request description. 
