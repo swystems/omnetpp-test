@@ -1,0 +1,12 @@
+# build products
+out/
+Makefile
+*_dbg
+.qt*
+
+# bin
+*.o
+*.o.d
+.so
+
+results/
